@@ -1,7 +1,7 @@
-# HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models(CVPR 2026 Findings)
+# HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models (CVPR 2026 Findings)
 
 Official repo for HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models
-![fig](./asset/main_exp.pdf)
+![fig](./asset/main_exp.jpg)
 
 ## Code will be released soon.
 
