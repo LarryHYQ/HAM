@@ -11,13 +11,12 @@ Official repo for HAM: A Training-Free Style Transfer Approach via Heterogeneous
 If you find our work useful, please consider citing:
 
 ```bibtex
-@misc{he2026hamtrainingfreestyletransfer,
-      title={HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models}, 
-      author={Yeqi He and Liang Li and Zhiwen Yang and Xichun Sheng and Zhidong Zhao and Chenggang Yan},
-      year={2026},
-      eprint={2603.24043},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.24043}, 
+@InProceedings{He_2026_CVPR,
+    author    = {He, Yeqi and Li, Liang and Yang, Zhiwen and Sheng, Xichun and Zhao, Zhidong and Yan, Chenggang},
+    title     = {HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {3914-3923}
 }
 ```
