@@ -22,8 +22,6 @@
 <img src="./asset/main_exp.jpg" width="100%" alt="HAM Teaser">
 </div>
 
-**HAM (Heterogeneous Attention Modulation)** is a **training-free** style transfer framework built on diffusion models.
-
 
 ## 🚀 Quick Start
 
