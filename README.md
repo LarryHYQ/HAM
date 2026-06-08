@@ -9,14 +9,12 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 </div>
 
----
 
 ## 📢 News
 
 - **2026.02** 🎉 HAM is accepted to **CVPR 2026 Findings**!
 - Code will be released soon — stay tuned!
 
----
 
 ## 📖 Overview
 
@@ -26,7 +24,6 @@
 
 **HAM (Heterogeneous Attention Modulation)** is a **training-free** style transfer framework built on diffusion models.
 
----
 
 ## 🚀 Quick Start
 
@@ -53,7 +50,6 @@ See [requirements.txt](requirements.txt) for the full list. Core dependencies:
 - `einops`, `omegaconf`, `requests`, `tqdm`, `wandb`
 - `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `scipy`
 
----
 
 ## 📝 Citation
 
@@ -61,21 +57,15 @@ If you find HAM useful in your research, please consider citing:
 
 ```bibtex
 @inproceedings{he2026ham,
-  title     = {HAM: A Training-Free Style Transfer Approach via Heterogeneous 
-               Attention Modulation for Diffusion Models},
-  author    = {He, Yeqi and Li, Liang and Yang, Zhiwen and Sheng, Xichun and 
-               Zhao, Zhidong and Yan, Chenggang},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision 
-               and Pattern Recognition (CVPR)},
+  title     = {HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation 
+               for Diffusion Models},
+  author    = {He, Yeqi and Li, Liang and Yang, Zhiwen and Sheng, Xichun and Zhao, Zhidong and Yan, Chenggang},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages     = {3914--3923},
   year      = {2026}
 }
 ```
 
----
-
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
-
----
